@@ -1,7 +1,0 @@
-HEAD Merge-master
-Hello ghjkl;';lkj
-<<<<<<< HEAD
-=======
-lkjhgfdsfghj
-вампиртоьблдю
->>>>>>> feature2
